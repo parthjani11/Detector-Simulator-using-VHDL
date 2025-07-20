@@ -88,7 +88,7 @@ The **Detector Simulator** operates using a structured pipeline composed of seve
 
 ## How to Use or Simulate
 
-- Use hardware simulation tools like **Libero**.
+- Use hardware synthesis tool **Libero** synthesis tool **Questa-Sim**.
 - Provide a clock signal (`clk`) that drives the system.
 - Toggle `rst` to reset the system.
 - Observe the serial output streams to verify data correctness.
